@@ -12,6 +12,9 @@
 
 ### NP,P,NP-Hard,NP-Complete
 ![e](./Compute_pics/02.jpg)
+
+--- sovable : 求解 ， decision : 是否有解 ---
+
 * P問題是在多項式時間內可以"求解"的問題
 * NP問題是在多項式時間內可以被驗證其正確性的問題(是否有答案)，但無法求解。
 * NP-Hard : 如果所有NP問題都可以多項式時間歸約到某個問題，則稱該問題為NP困難。
